@@ -57,8 +57,8 @@ Este repositório contêm todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 8: Testes com JUnit5
 
 - [x] 8-1: _Testes unitários com JUnit5_
-- [ ] 8-2: _TDD com JUnit5_
-- [ ] 8-3: _Desafio agregador_
+- [x] 8-2: _TDD com JUnit5_
+- [x] 8-3: _Desafio agregador_
 
 ##### Bloco 9: ORM - Hibernate
 
