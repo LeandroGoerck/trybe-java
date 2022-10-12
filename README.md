@@ -62,36 +62,36 @@ Este repositório contêm todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 9: ORM - Hibernate
 
-- [ ] 9-1: _Criando entidades_
-- [ ] 9-2: _Relacionamentos e consultas_
-- [ ] 9-3: _Desafio agregador_
+- [x] 9-1: _Criando entidades_
+- [x] 9-2: _Relacionamentos e consultas_
+- [x] 9-3: _Desafio agregador_
 
 ##### Bloco 10: Java Web
 
-- [ ] 10-1: _Como o Java vai para a Web_
-- [ ] 10-2: _Logs e Datasources_
-- [ ] 10-3: _Fazendo deploy de uma aplicação_
-- [ ] 10-4: _Desafio agregador_
+- [x] 10-1: _Como o Java vai para a Web_
+- [x] 10-2: _Logs e Datasources_
+- [x] 10-3: _Fazendo deploy de uma aplicação_
+- [x] 10-4: _Desafio agregador_
 
 ##### Bloco 11: Spring
 
-- [ ] 11-1: _Introdução ao Spring e Spring Boot_
-- [ ] 11-2: _Injeção de Dependências e organização de uma aplicação Spring_
-- [ ] 11-3: _REST, SQL NoSQL_
-- [ ] 11-4: _Testes no Spring_
-- [ ] 11-5: _Deploy da Aplicação Spring com Heroku_
-- [ ] 11-6: _Desafio agregador_
+- [x] 11-1: _Introdução ao Spring e Spring Boot_
+- [x] 11-2: _Injeção de Dependências e organização de uma aplicação Spring_
+- [x] 11-3: _REST, SQL NoSQL_
+- [x] 11-4: _Testes no Spring_
+- [x] 11-5: _Deploy da Aplicação Spring com Heroku_
+- [x] 11-6: _Desafio agregador_
 
 ##### Bloco 12: Quarkus
 
-- [ ] 12-1: _Introdução ao Quarkus_
-- [ ] 12-2: _API C.R.U.D. com tratamento de exceções_
-- [ ] 12-3: _Testes com JUnit e Deploy no Heroku_
-- [ ] 12-4: _Desafio agregador_
+- [x] 12-1: _Introdução ao Quarkus_
+- [x] 12-2: _API C.R.U.D. com tratamento de exceções_
+- [x] 12-3: _Testes com JUnit e Deploy no Heroku_
+- [x] 12-4: _Desafio agregador_
 
 ##### Bloco 13: Containers
 
-- [ ] 13-1: _Java e Docker_
+- [x] 13-1: _Java e Docker_
 - [ ] 13-2: _Desafio agregador_
 
 ##### Bloco 14: Desafio final
